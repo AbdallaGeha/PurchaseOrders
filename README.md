@@ -183,7 +183,15 @@ Order Total = Paid Amount + Violations Total + Retention Amount
 
 ---
 
-## 🔗 GitHub
+## 👋 About Me
 
-Available on GitHub: 🐙 [github.com/abdallageha](https://github.com/abdallageha)
+I'm a .net developer focused on building scalable, testable applications using modern .NET technologies. My proficiency includes C#, ASP.NET Core, Web API, MVC, and Entity Framework Core. Also, I have experience Delivering end-to-end solutions. My skills include HTML, CSS, JavaScript, and experience with popular front-end frameworks like Angular. I have many years of experience in designing and optimizing relational databases, with a strong understanding of SQL Server and experience in database modelling, stored procedures, and data manipulation.
+
+This project is part of my portfolio to demonstrate my ability to model real-world business logic and design clean, maintainable systems.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdallageha/)
+- 📂 [More Projects](https://github.com/AbdallaGeha)
+- 📧 Contact: abd_geha@hotmail.com
+
+---
 
