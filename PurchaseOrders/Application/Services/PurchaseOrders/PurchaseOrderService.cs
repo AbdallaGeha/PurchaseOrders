@@ -4,7 +4,6 @@ using PurchaseOrders.Application.Common.Exceptions;
 using PurchaseOrders.Application.Domain.Payments;
 using PurchaseOrders.Application.Domain.Payments.Enums;
 using PurchaseOrders.Application.Domain.PurchaseOrders;
-using PurchaseOrders.Application.Domain.Setup;
 using PurchaseOrders.Application.Dtos.PurchaseOrders;
 using PurchaseOrders.Application.Services.Financial;
 using PurchaseOrders.Data;

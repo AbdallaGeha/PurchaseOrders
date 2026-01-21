@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using PurchaseOrders.Application.Common.Exceptions;
 using PurchaseOrders.Application.Domain.Payments;
 using PurchaseOrders.Application.Domain.Payments.Enums;
