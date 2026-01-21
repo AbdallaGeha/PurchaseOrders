@@ -5,9 +5,7 @@ using PurchaseOrders.Application.Domain.Inventory;
 using PurchaseOrders.Application.Domain.Inventory.Enums;
 using PurchaseOrders.Application.Domain.PurchaseOrders;
 using PurchaseOrders.Application.Domain.PurchaseOrders.Enums;
-using PurchaseOrders.Application.Dtos.PurchaseOrders;
 using PurchaseOrders.Application.Dtos.PurchaseOrderStatements;
-using PurchaseOrders.Application.Services.Financial;
 using PurchaseOrders.Data;
 
 namespace PurchaseOrders.Application.Services.PurchaseOrderStatements
