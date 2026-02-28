@@ -26,7 +26,7 @@ namespace PurchaseOrders.Application.Services.PurchaseOrderStatements
                 .Include(x => x.Items)
                 .SingleOrDefaultAsync(x => x.Id == purchaseOrderId);
 
-            if (purchaseOrder == null || purchaseOrder.State != Domain.PurchaseOrders.Enums.PurchaseOrderState.Approved)
+            if (purchaseOrder == null || purchaseOrder.State != PurchaseOrderState.Approved)
                 return false;
 
             var statementsIds = await _context.PurchaseOrderStatements
